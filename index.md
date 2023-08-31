@@ -6,7 +6,7 @@ title: Student Blog
 
 # <span style="font-family: 'Times New Roman', serif;"> Eshika Pallapotu <span>
 
-### <span style="font-family: 'Times New Roman', serif;"> <span style="color: #13712E;">Hi, my name is Eshika Pallapotu and I am 15 years old. I was born on March 4th and I got to Del Norte High school. I love to learn about science and hope to persue it in the future. I have a family of four, including me, and we are very close. Fun fact: I am the oldest out of all of my first cousins and they all live in the US. </span>
+### <span style="font-family: 'Times New Roman', serif;"> <span style="color: #13712E;">Hi, my name is Eshika Pallapotu and I am 15 years old. I was born on March 4th and I go to Del Norte High school. I love to learn about science and hope to persue it in the future. I have a family of four, including me, and we are very close. Fun fact: I am the oldest out of all of my first cousins and they all live in the US. </span>
 ![ ](image.png)
 
 ### <span style="font-family: 'Times New Roman', serif;"> <span style="color: #226797;">This image shows various of things about me. My parent are from India but I was born and brought up in San diego. In this image, it shows a bike, indicating that I love to go on bike rides! My favorite foods are cookies and watermelons. As a sport, I do an Indian classical dancing known as Bharatanatyam. I enjoy reading and listening to music in my freetime. </span>
@@ -19,4 +19,3 @@ title: Student Blog
 ![GIF OF CUTE CAT!](giphy.gif)
 
 <script src="https://cdn.htmlgames.com/embed.js?game=PirateMysteries&amp;bgcolor=white"></script>
-
