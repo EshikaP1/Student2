@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Calculator</title>
+    <style>
+        /* Add your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <div id="calculator">
+        <input type="text" id="display" readonly>
+        <br>
+        <button onclick="appendToDisplay('7')">7</button>
+        <button onclick="appendToDisplay('8')">8</button>
+        <!-- More calculator buttons... -->
+    </div>
+
+    <script>
+        function appendToDisplay(value) {
+            document.getElementById('display').value += value;
+        }
+        // Add more calculator functions...
+    </script>
+</body>
+</html>
