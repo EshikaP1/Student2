@@ -13,9 +13,8 @@ title: Student Blog
 
 #### In order to make this blog, I went through many obstacles. For me, I struggled from the begining itself. Unable to open wsl, I turned to my peers who faced similar issues. I then was introduced to a setting known as features. So in order to support linux, I added a box and was good to go. Another interesting thing that occured was that my teacher and student repository was merged and after consulting with a student coach, I learned that it shouldn't give me many problems. I however, don't know if that is related to the issue of unable to find the teacher repository in my vscode file. I overcame that problem and was able to catch up and sucessfully finish setting up. 
 
-![ ](image-1.png)
-![ ](image-2.png)
 
-![GIF OF CUTE CAT!](giphy.gif)
+
+<iframe src="https://giphy.com/embed/ICOgUNjpvO0PC" width="300" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-humour-funny-ICOgUNjpvO0PC">via GIPHY</a></p> 
 
 <script src="https://cdn.htmlgames.com/embed.js?game=PirateMysteries&amp;bgcolor=white"></script>
