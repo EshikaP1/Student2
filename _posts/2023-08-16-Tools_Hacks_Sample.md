@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Tool demonstation and Introduction
 description: Configuration for My Computer  
-courses: { compsci: {week: 0} }
+courses: { compsci: {week: } }
 type: hacks
 ---
 

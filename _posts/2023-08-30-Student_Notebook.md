@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Student Notebook 
 description: Eshika's Computer Science Notebook
-type: plans
+type: hacks
 courses: { compsci: {week: 1} }
 ---
 

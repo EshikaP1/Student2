@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Calculator for Pros
 description: Lets get ready for some equations!
-type: plans
+type: hacks
 courses: { compsci: {week: 1} }
 ---
 # Calculator
