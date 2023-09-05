@@ -7,6 +7,9 @@ description: Lets get ready for some equations!
 type: hacks
 courses: { compsci: {week: 1} }
 ---
+
+```
+
 import sympy as sp
 import matplotlib.pyplot as plt
 import numpy as np
