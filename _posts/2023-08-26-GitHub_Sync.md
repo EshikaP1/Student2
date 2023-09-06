@@ -5,7 +5,7 @@ hide: true
 layout: post
 type: hacks
 title: All about GitHub.
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 0} }
 ---
 ## Number one step is make a GitHub account
 + Make sure your personal email is used 
