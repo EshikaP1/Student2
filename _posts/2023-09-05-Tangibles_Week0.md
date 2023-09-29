@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: tangibles Week 0
 description: Let's see what we did!
-type: plans
+type: tangibles
 courses: { compsci: {week: 0}  }
 ---
 

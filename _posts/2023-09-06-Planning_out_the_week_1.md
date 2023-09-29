@@ -17,7 +17,7 @@ courses: { compsci: {week: 1}  }
     + Add Plans for weeks
     + Add snake game
 - Wednesday
-    + Continue to work on files
+    + Continue to work on deleting previous files and rewriting the old files. Make sure that nothing that was there 
  - Thursday
     + Prepare for live review
  - Friday
