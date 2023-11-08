@@ -5,7 +5,7 @@ layout: post
 title: Plannign Out the Week number 5
 description: :)
 courses: { compsci: {week: 5} }
-type: hacks
+type: plans
 ---
 
 #
