@@ -5,7 +5,7 @@ layout: post
 title: Graphing Calculator for Pros
 description: Lets get ready for some equations!
 type: hacks
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 2} }
 ---
 
 <html>

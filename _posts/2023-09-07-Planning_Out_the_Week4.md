@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Planning out week3
+title: Planning out week 4
 description: Let's see what goes on this week!
 type: plans
 courses: { compsci: {week: 4}  }
