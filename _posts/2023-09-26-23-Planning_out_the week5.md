@@ -8,8 +8,8 @@ courses: { compsci: {week: 5} }
 type: plans
 ---
 
-#
+# Basic Plans
 - work on completing all of the hacks with your team 
-Monday, Tuesday, Wednesday: Work on hacks
-Thursday: work with team
-Firday: present to Mr.Lopez
+-Monday, Tuesday, Wednesday: Work on hacks
+-Thursday: work with team
+-Firday: present to Mr.Lopez
