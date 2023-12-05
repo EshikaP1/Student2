@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: 4.1 - Team teach tri 2 group 2
+title: Team teach tri 2 group 2
 description: N/A
 type: hacks
 courses: { compsci: {week: 16} }
