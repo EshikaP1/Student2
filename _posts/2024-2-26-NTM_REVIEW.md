@@ -35,3 +35,7 @@ courses: {'compsci': {'week': 17}}
 | **Algorithm Design** :  An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure. | MY code itterates over the JSON database in order to convert into an SQlite databse for easy acess. Here we use for and if loops to do the selected procedure. <img alt="Extensions" src="{{site.baseurl}}/images/JSON_covertcode.png"  width="250">  |
 | **Procedure Calls**: Calls to your student-developed procedure.                                           | In the frontend, I am using a fetch command when the page is reloading. It calls to the backend and adds console errors if they occur. <img alt="Extensions" src="{{site.baseurl}}/images/Procedure_Drink.png"  width="250">     |
 | **Output Instructions**: Instructions for output (tactile, audible, visual, or ) based on input and program functionality.                                          | The console will provide a message that will be sotred if the code for delteting a row ran. Also, the user can see a page to confirm whether or not they want to delte the drink. <img alt="Extensions" src="{{site.baseurl}}/images/DELETE_CONFIRM.png"  width="250"> 
+
+### Login code I worked with:
+
+<img alt="Extensions" src="{{site.baseurl}}/images/LOGIN_CODE.png"  width="250"> 
